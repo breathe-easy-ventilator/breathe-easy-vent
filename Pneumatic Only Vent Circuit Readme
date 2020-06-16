@@ -1,0 +1,5 @@
+This is a pneumatic only design for a low-cost emergency ventilator. The device runs on O2 and can deliver 100% O2 or a Air/O2 mix of ~50% using a venturi. I/E ratio can be set internally in the device by adjusting the needle valves on the double acting cylinder; the default is 1:1.
+Designed for simplicity the device operates in mandatory ventilation only. Pressure, inspiratory time and approx. tidal volume (flow rate) can be adjusted with panel mount valves. Pressure is read mechanically with a diaphragm gauge.
+Optionally, synchronized mode could be added with a pneumatically triggered breath, air can be used to drive the circuit for greater efficiency and more control of the parameters can be achieved. These options come at a cost - weight, complexity and compliance.
+The device is designed to be lightweight, compact, IP65 rated, drop-resistant and impervious to magnet fields. It can be stored for extended periods of time and easily repaired.
+To ease compliance this device has no electronics or software and is intended to be an emergency device only. All components are easily sourced COTS with high life-cycle ratings.
